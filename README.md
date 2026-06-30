@@ -61,7 +61,7 @@ The dataset was cleaned and prepared using MySQL Workbench before importing it i
 - hr_data_cleaning.sql
 - dashboard1.png(https://github.com/sshussain1728/HR-Analytics-Dashboard-PowerBI/blob/main/dashboard1.png)
 - dashboard2.png(https://github.com/sshussain1728/HR-Analytics-Dashboard-PowerBI/blob/main/dashboard2.png)
-- dashboard3()
+- dashboard3(https://github.com/sshussain1728/HR-Analytics-Dashboard-PowerBI/blob/main/dashboard3.png)
 - README.md
 
 ---
