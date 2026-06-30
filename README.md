@@ -59,7 +59,7 @@ The dataset was cleaned and prepared using MySQL Workbench before importing it i
 - HR Analytics Dashboard.pbix
 - HR_Dataset.csv
 - hr_data_cleaning.sql
-- dashboard1.png()
+- dashboard1.png(https://github.com/sshussain1728/HR-Analytics-Dashboard-PowerBI/blob/main/dashboard1.png)
 - dashboard2.png()
 - dashboard3()
 - README.md
